@@ -1,0 +1,29 @@
+{
+    "name": "spotify-wrapped-collector",
+    "version": "1.0.0",
+    "description": "A lightweight script for collecting Spotify playback data to create a personal Spotify Wrapped",
+    "main": "index.js",
+    "scripts": {
+        "start": "bun index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/0xrouss/spotify-wrapped-collector.git"
+    },
+    "keywords": [
+        "spotify",
+        "wrapped",
+        "personal-analytics",
+        "sqlite"
+    ],
+    "author": "Rouss",
+    "license": "MIT",
+    "engines": {
+        "bun": ">=1.0.0"
+    },
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/0xrouss/spotify-wrapped-collector/issues"
+    },
+    "homepage": "https://github.com/0xrouss/spotify-wrapped-collector#readme"
+}
