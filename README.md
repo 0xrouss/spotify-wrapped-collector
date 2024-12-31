@@ -13,14 +13,14 @@ Just a little personal project, feel free to contribute or discuss a feature.
 ### Prerequisites
 
 -   [Bun](https://bun.sh/)
--   Spotify API credentials (Client ID, Client Secret, Refresh Token).
+-   [Spotify API credentials](https://developer.spotify.com/) (Client ID, Client Secret, Refresh Token).
 
 ### Setup
 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/spotify-wrapped-collector.git
+    git clone https://github.com/0xrouss/spotify-wrapped-collector.git
     cd spotify-wrapped-collector
     ```
 
